@@ -19,4 +19,3 @@
 //= require controllers/controller
 //= require factories/service
 //= require home
-//= require_tree .
